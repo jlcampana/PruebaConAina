@@ -13,7 +13,8 @@
 # Generated files
 bin/
 gen/
-.idea/
+*/.idea
+
 
 # Gradle files
 .gradle/
@@ -33,4 +34,3 @@ proguard/
 
 # Android Studio captures folder
 captures/
-
