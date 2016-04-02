@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d6add01-e0f1-4351-a995-fd987c2073ef" name="Default" comment="" />
+    <list default="true" id="9d6add01-e0f1-4351-a995-fd987c2073ef" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyApplication/app/src/main/java/edu/ub/pis2016/ahernandez/testconjoze/MainActivity.java" afterPath="$PROJECT_DIR$/MyApplication/app/src/main/java/edu/ub/pis2016/ahernandez/testconjoze/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" afterPath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" />
+    </list>
     <ignored path="PruebaConAina.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -171,7 +174,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
